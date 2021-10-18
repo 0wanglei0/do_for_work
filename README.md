@@ -75,3 +75,20 @@ WEB SERVER FAILED TO START. PORT 8080 WAS ALREADY IN USE.**
 
 3. Markdown程序使用，需要额外安装 Awesomium 1.6.6 SDK才能正常使用预览  
 [下载路径](http://markdownpad.com/download/awesomium_v1.6.6_sdk_win.exe) ，正常安装即可
+
+
+### 2021.10.18
+- 打算看看怎么创建spring boot 的controller，还有创建vuejs的网络请求，然后怎么前后端分离请求  
+  1. 创建spring boot的Hello world的controller  
+  1.1 @Controller 整个页面刷新使用，@RestController局部刷新使用，一般返回json格式  
+  1.2 controller的注解使用在类中，不能使用在方法，如果返回字符串需要添加@Response注解，否则默认应该返回view
+- 创建显示Hello world的页面  
+  下载了webStorm
+
+- 请求实现  
+
+- 前后端分离需要nginx  
+  https://www.cnblogs.com/knowledgesea/p/5175711.html  
+  没太看懂
+
+- 有点不知道怎么下手了
