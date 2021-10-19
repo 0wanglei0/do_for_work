@@ -92,3 +92,13 @@ WEB SERVER FAILED TO START. PORT 8080 WAS ALREADY IN USE.**
   没太看懂
 
 - 有点不知道怎么下手了
+
+
+### 2021.10.19
+- vs code是都可以编辑，但是辅助功能基本没有，不知道是不是没有设置对  
+
+- vuejs的页面重新创建了，之前用命令行创建的项目不知道应该怎么用，还需要重新学习
+
+- spring boot的controller应该是创建的没有问题，vuejs搞懂之后就可以尝试前后台访问了
+
+- 之后就继续进行其他平台的开发
