@@ -1,3 +1,7 @@
 springboot_project/demo/demo/.gradle/
 springboot_project/demo/.gradle/
 springboot_project/demo/.idea/
+android_projects/android_rsa/gradlew
+android_projects/android_rsa/gradlew.bat
+android_projects/android_rsa/.idea/
+android_projects/android_rsa/gradle/wrapper/gradle-wrapper.jar
